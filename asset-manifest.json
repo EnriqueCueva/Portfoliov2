@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfoliov2/static/css/main.81bb9d11.css",
+    "main.js": "/Portfoliov2/static/js/main.8ce41af5.js",
+    "static/js/488.a1c9d217.chunk.js": "/Portfoliov2/static/js/488.a1c9d217.chunk.js",
+    "static/media/tec1.png": "/Portfoliov2/static/media/tec1.cbee5933fabb1dffb2f7.png",
+    "static/media/tec3.png": "/Portfoliov2/static/media/tec3.e55296beb59ec9682590.png",
+    "static/media/tec2.png": "/Portfoliov2/static/media/tec2.70f999b10850d3598c3d.png",
+    "static/media/medi.png": "/Portfoliov2/static/media/medi.c3984560c15c63990104.png",
+    "static/media/logoco.png": "/Portfoliov2/static/media/logoco.da7bd199710a1af111ba.png",
+    "static/media/profile.jpg": "/Portfoliov2/static/media/profile.1334b9d384d214030bea.jpg",
+    "static/media/logoutpl.png": "/Portfoliov2/static/media/logoutpl.ece968f21232c878d8aa.png",
+    "static/media/react-js.png": "/Portfoliov2/static/media/react-js.e447ebea09a0ea67b572.png",
+    "static/media/css.jpeg": "/Portfoliov2/static/media/css.c6d62ef89e6283633955.jpeg",
+    "static/media/flutter.png": "/Portfoliov2/static/media/flutter.c01689b8b9b67dcf0ef1.png",
+    "static/media/html.png": "/Portfoliov2/static/media/html.e16590b31d52a5bbcde0.png",
+    "static/media/js.jpg": "/Portfoliov2/static/media/js.702e91d1c826d0ac1a57.jpg",
+    "index.html": "/Portfoliov2/index.html",
+    "main.81bb9d11.css.map": "/Portfoliov2/static/css/main.81bb9d11.css.map",
+    "main.8ce41af5.js.map": "/Portfoliov2/static/js/main.8ce41af5.js.map",
+    "488.a1c9d217.chunk.js.map": "/Portfoliov2/static/js/488.a1c9d217.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81bb9d11.css",
+    "static/js/main.8ce41af5.js"
+  ]
+}
