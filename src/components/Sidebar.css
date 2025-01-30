@@ -1,0 +1,13 @@
+.sidebar {
+    text-align: center;
+    padding: 40px 20px;
+    background: #222;
+    color: white;
+  }
+  
+  .sidebar img {
+    width: 20%;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  

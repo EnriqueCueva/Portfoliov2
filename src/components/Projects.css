@@ -1,0 +1,43 @@
+.projects {
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 300px;
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .card h3 {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+  
+  .card p {
+    color: #555;
+    font-size: 0.9rem;
+  }
+  
+  .card a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+    background: #007bff;
+    padding: 10px 15px;
+    border-radius: 5px;
+  }
+  
+  .card a:hover {
+    background: #0056b3;
+  }
+  
